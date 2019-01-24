@@ -1,2 +1,1 @@
-# python
-print("First day on github"
+First day on github
